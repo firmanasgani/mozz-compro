@@ -1,6 +1,6 @@
 export default function AboutUsPage() {
   return (
-    <div className="flex flex-row items-center justify-center gap-10 h-screen">
+    <div className="flex flex-col items-center justify-center gap-10 h-screen lg:flex-row md:gap-5">
       <h1 className="text-4xl font-bold text-black">Let's connect <br /> with us!</h1>
       <div>
         PT MOZZ CITRA INDONESIA <br />
