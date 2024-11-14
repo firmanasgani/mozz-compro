@@ -65,10 +65,10 @@ export default function Home() {
       </div>
 
 
-      <div className="flex flex-col item-center justify-center mt-10 mb-10">
+      <div className="flex flex-col item-center justify-center mt-10 mb-20">
         <h1 className="text-4xl font-bold text-center">Our Products</h1>
-        <div className="flex flex-col gap-2  items-center justify-center mt-10">
-          <div className="flex flex-wrap justify-center items-center gap-4 mt-10">
+        <div className="flex flex-col gap-2  items-center justify-center mt-10 mb-10">
+          <div className="flex flex-wrap justify-center items-center gap-4 mt-10 mb-10">
             <div
               className="bg-cover bg-no-repeat bg-center h-80 w-80"
               style={{
